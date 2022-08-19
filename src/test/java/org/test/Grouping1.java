@@ -7,7 +7,7 @@ public class Grouping1 {
 	
 	@Test(groups="smoke")
 	public void Tc1() {
-		System.out.println("TC1");
+		System.out.println("TC1and");
 
 	}
 	
